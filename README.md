@@ -14,6 +14,10 @@ Once deployed, the application appears as the image attached below on a traditio
 src="./images/ss1.png"
 alt="A screenshot of the application" />
 
+<img
+src="./images/ss2.png"
+alt="A screenshot of the application" />
+
 
 ## Credits
 
