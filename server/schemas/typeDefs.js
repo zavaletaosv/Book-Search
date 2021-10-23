@@ -22,6 +22,10 @@ const typeDefs = gql`
         token: ID!
         user: User
     }
+
+    type Query {
+        me: User
+    }
 `;
 
 module.exports = typeDefs;
