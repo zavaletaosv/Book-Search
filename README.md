@@ -5,7 +5,9 @@ MERN: Book Search Engine
 
 ## Links
 
-Repository Link: 
+Repository Link: https://github.com/zavaletaosv/Book-Search
+
+Deployed Website Link: https://book-search-oz.herokuapp.com/
 ## Usage
 
 Once deployed, the application appears as the image attached below on a traditional desktop. A link to the video is also added to showcase the application.
